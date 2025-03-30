@@ -186,7 +186,7 @@ Contributions are welcome! If you find any issues or want to add new features, f
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/muhin-g-s/node-hmr-ts-boilerplate#license") file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/muhin-g-s/node-hmr-ts-boilerplate#license) file for details.
 
 ---
 
