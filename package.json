@@ -9,10 +9,24 @@
     "preview": "node dist/index.js",
     "lint:eslint": "eslint . --ext .js,.ts,"
   },
-  "keywords": [],
+  "keywords": [
+    "Node.js",
+    "TypeScript",
+    "Docker",
+    "HMR",
+    "Boilerplate"
+  ],
   "author": "muhin.g.s.00@gamil.com",
   "license": "MIT",
-  "description": "",
+	"description": "A Node.js boilerplate with TypeScript, Docker, HMR, and linting support.",
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/muhin-g-s/node-hmr-ts-boilerplate.git"
+  },
+	"bugs": {
+    "url": "https://github.com/muhin-g-s/node-hmr-ts-boilerplate/issues"
+  },
+	"homepage": "https://github.com/muhin-g-s/node-hmr-ts-boilerplate#readme",
   "devDependencies": {
     "@types/node": "22.7.5",
     "@typescript-eslint/eslint-plugin": "7.0.2",
